@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "mmap"]
 	path = mmap
 	url = https://github.com/jaryan/mmap
-	shallow = true
-	registered = true
